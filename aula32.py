@@ -30,7 +30,7 @@ horas_int = int(horas)
 if horas_int >= 0 and horas_int <= 11:
     print('Bom dia!')
 elif horas_int > 11 and horas_int <= 17:
-        print('Boa tarde!')
+        print('Boa tarde!') 
 elif horas_int > 17 and horas_int <= 23:
     print('Boa noite!')
 """
